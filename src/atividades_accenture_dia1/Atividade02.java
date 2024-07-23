@@ -18,7 +18,7 @@ public class Atividade02 {
 			System.out.println("Achei");
 			System.out.printf("Na posição %d está localizado o numero %d", position, numero);
 			// O primeiro erro estava ao tentar utilizar duas variáveis do escopo do loop FOR
-			// O segundo erro estava ao tentar utilizar o print ln em um print formatado
+			// O segundo erro estava ao tentar utilizar o print Line em um print Formatado
 		}
 	}
 }
